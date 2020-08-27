@@ -33,10 +33,10 @@ exports[`<Form /> should check Form functionality 1`] = `
         style="transform: translateX(0);"
       >
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-showGroup-13"
         />
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         >
           <label
             class="MuiFormLabel-root makeStyles-text-8"
@@ -58,7 +58,7 @@ exports[`<Form /> should check Form functionality 1`] = `
           </label>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
           style="justify-content: center; align-items: center;"
         >
           <svg
@@ -205,10 +205,10 @@ exports[`<Form /> should check Form functionality 2`] = `
         style="transform: translateX(-100%);"
       >
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         />
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-showGroup-13"
         >
           <label
             class="MuiFormLabel-root makeStyles-text-8"
@@ -230,7 +230,7 @@ exports[`<Form /> should check Form functionality 2`] = `
           </label>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
           style="justify-content: center; align-items: center;"
         >
           <svg
@@ -377,10 +377,10 @@ exports[`<Form /> should check Form functionality 3`] = `
         style="transform: translateX(-200%);"
       >
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         />
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         >
           <label
             class="MuiFormLabel-root makeStyles-text-8"
@@ -402,7 +402,7 @@ exports[`<Form /> should check Form functionality 3`] = `
           </label>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-showGroup-13"
           style="justify-content: center; align-items: center;"
         >
           <svg
@@ -551,10 +551,10 @@ exports[`<Form /> should check Form functionality 4`] = `
         style="transform: translateX(-200%);"
       >
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         />
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         >
           <label
             class="MuiFormLabel-root makeStyles-text-8"
@@ -576,7 +576,7 @@ exports[`<Form /> should check Form functionality 4`] = `
           </label>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-showGroup-13"
           style="justify-content: center; align-items: center;"
         >
           <svg
@@ -723,13 +723,13 @@ exports[`<Form /> should check Form functionality 5`] = `
         style="transform: translateX(-200%);"
       >
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         >
           <label
-            class="MuiFormControlLabel-root makeStyles-control-13"
+            class="MuiFormControlLabel-root makeStyles-control-15"
           >
             <div
-              class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+              class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
             >
               <label
                 class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
@@ -757,10 +757,10 @@ exports[`<Form /> should check Form functionality 5`] = `
             />
           </label>
           <label
-            class="MuiFormControlLabel-root makeStyles-control-13"
+            class="MuiFormControlLabel-root makeStyles-control-15"
           >
             <div
-              class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+              class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
             >
               <label
                 class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
@@ -788,10 +788,10 @@ exports[`<Form /> should check Form functionality 5`] = `
             />
           </label>
           <label
-            class="MuiFormControlLabel-root makeStyles-control-13"
+            class="MuiFormControlLabel-root makeStyles-control-15"
           >
             <div
-              class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+              class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
             >
               <label
                 class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
@@ -820,7 +820,7 @@ exports[`<Form /> should check Form functionality 5`] = `
           </label>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         >
           <label
             class="MuiFormLabel-root makeStyles-text-8"
@@ -831,10 +831,10 @@ exports[`<Form /> should check Form functionality 5`] = `
             class="makeStyles-date-7"
           >
             <label
-              class="MuiFormControlLabel-root makeStyles-control-13"
+              class="MuiFormControlLabel-root makeStyles-control-15"
             >
               <div
-                class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+                class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
               >
                 <label
                   class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
@@ -857,10 +857,10 @@ exports[`<Form /> should check Form functionality 5`] = `
                   />
                   <fieldset
                     aria-hidden="true"
-                    class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                    class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                   >
                     <legend
-                      class="PrivateNotchedOutline-legendLabelled-16 PrivateNotchedOutline-legendNotched-17"
+                      class="PrivateNotchedOutline-legendLabelled-18 PrivateNotchedOutline-legendNotched-19"
                     >
                       <span>
                         DD
@@ -874,10 +874,10 @@ exports[`<Form /> should check Form functionality 5`] = `
               />
             </label>
             <label
-              class="MuiFormControlLabel-root makeStyles-control-13"
+              class="MuiFormControlLabel-root makeStyles-control-15"
             >
               <div
-                class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+                class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
               >
                 <label
                   class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
@@ -900,10 +900,10 @@ exports[`<Form /> should check Form functionality 5`] = `
                   />
                   <fieldset
                     aria-hidden="true"
-                    class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                    class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                   >
                     <legend
-                      class="PrivateNotchedOutline-legendLabelled-16 PrivateNotchedOutline-legendNotched-17"
+                      class="PrivateNotchedOutline-legendLabelled-18 PrivateNotchedOutline-legendNotched-19"
                     >
                       <span>
                         MM
@@ -917,10 +917,10 @@ exports[`<Form /> should check Form functionality 5`] = `
               />
             </label>
             <label
-              class="MuiFormControlLabel-root makeStyles-control-13"
+              class="MuiFormControlLabel-root makeStyles-control-15"
             >
               <div
-                class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+                class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
               >
                 <label
                   class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
@@ -943,10 +943,10 @@ exports[`<Form /> should check Form functionality 5`] = `
                   />
                   <fieldset
                     aria-hidden="true"
-                    class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                    class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                   >
                     <legend
-                      class="PrivateNotchedOutline-legendLabelled-16 PrivateNotchedOutline-legendNotched-17"
+                      class="PrivateNotchedOutline-legendLabelled-18 PrivateNotchedOutline-legendNotched-19"
                     >
                       <span>
                         YYYY
@@ -966,14 +966,14 @@ exports[`<Form /> should check Form functionality 5`] = `
             gender
           </label>
           <div
-            class="makeStyles-group-18"
+            class="makeStyles-group-20"
           >
             <label
-              class="makeStyles-label-19"
+              class="makeStyles-label-21"
               for="male"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-21 MuiButton-containedPrimary"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-23 MuiButton-containedPrimary"
                 tabindex="0"
                 type="button"
               >
@@ -982,7 +982,7 @@ exports[`<Form /> should check Form functionality 5`] = `
                 >
                   <input
                     checked=""
-                    class="makeStyles-field-20"
+                    class="makeStyles-field-22"
                     id="male"
                     name="gender"
                     type="radio"
@@ -996,11 +996,11 @@ exports[`<Form /> should check Form functionality 5`] = `
               </button>
             </label>
             <label
-              class="makeStyles-label-19"
+              class="makeStyles-label-21"
               for="female"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-21"
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-23"
                 tabindex="0"
                 type="button"
               >
@@ -1008,7 +1008,7 @@ exports[`<Form /> should check Form functionality 5`] = `
                   class="MuiButton-label"
                 >
                   <input
-                    class="makeStyles-field-20"
+                    class="makeStyles-field-22"
                     id="female"
                     name="gender"
                     type="radio"
@@ -1022,11 +1022,11 @@ exports[`<Form /> should check Form functionality 5`] = `
               </button>
             </label>
             <label
-              class="makeStyles-label-19"
+              class="makeStyles-label-21"
               for="unspecified"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-21"
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-23"
                 tabindex="0"
                 type="button"
               >
@@ -1034,7 +1034,7 @@ exports[`<Form /> should check Form functionality 5`] = `
                   class="MuiButton-label"
                 >
                   <input
-                    class="makeStyles-field-20"
+                    class="makeStyles-field-22"
                     id="unspecified"
                     name="gender"
                     type="radio"
@@ -1088,11 +1088,11 @@ exports[`<Form /> should check Form functionality 5`] = `
               </svg>
               <fieldset
                 aria-hidden="true"
-                class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                 style="padding-left: 8px;"
               >
                 <legend
-                  class="PrivateNotchedOutline-legend-15"
+                  class="PrivateNotchedOutline-legend-17"
                   style="width: 0.01px;"
                 >
                   <span>
@@ -1104,7 +1104,7 @@ exports[`<Form /> should check Form functionality 5`] = `
           </div>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-showGroup-13"
           style="justify-content: center; align-items: center;"
         >
           <svg
@@ -1251,13 +1251,13 @@ exports[`<Form /> should check Form functionality 6`] = `
         style="transform: translateX(-100%);"
       >
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
         >
           <label
-            class="MuiFormControlLabel-root makeStyles-control-13"
+            class="MuiFormControlLabel-root makeStyles-control-15"
           >
             <div
-              class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+              class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
             >
               <label
                 class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
@@ -1285,10 +1285,10 @@ exports[`<Form /> should check Form functionality 6`] = `
             />
           </label>
           <label
-            class="MuiFormControlLabel-root makeStyles-control-13"
+            class="MuiFormControlLabel-root makeStyles-control-15"
           >
             <div
-              class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+              class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
             >
               <label
                 class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
@@ -1316,10 +1316,10 @@ exports[`<Form /> should check Form functionality 6`] = `
             />
           </label>
           <label
-            class="MuiFormControlLabel-root makeStyles-control-13"
+            class="MuiFormControlLabel-root makeStyles-control-15"
           >
             <div
-              class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+              class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
             >
               <label
                 class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
@@ -1348,7 +1348,7 @@ exports[`<Form /> should check Form functionality 6`] = `
           </label>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-showGroup-13"
         >
           <label
             class="MuiFormLabel-root makeStyles-text-8"
@@ -1359,10 +1359,10 @@ exports[`<Form /> should check Form functionality 6`] = `
             class="makeStyles-date-7"
           >
             <label
-              class="MuiFormControlLabel-root makeStyles-control-13"
+              class="MuiFormControlLabel-root makeStyles-control-15"
             >
               <div
-                class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+                class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
               >
                 <label
                   class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
@@ -1385,10 +1385,10 @@ exports[`<Form /> should check Form functionality 6`] = `
                   />
                   <fieldset
                     aria-hidden="true"
-                    class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                    class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                   >
                     <legend
-                      class="PrivateNotchedOutline-legendLabelled-16 PrivateNotchedOutline-legendNotched-17"
+                      class="PrivateNotchedOutline-legendLabelled-18 PrivateNotchedOutline-legendNotched-19"
                     >
                       <span>
                         DD
@@ -1402,10 +1402,10 @@ exports[`<Form /> should check Form functionality 6`] = `
               />
             </label>
             <label
-              class="MuiFormControlLabel-root makeStyles-control-13"
+              class="MuiFormControlLabel-root makeStyles-control-15"
             >
               <div
-                class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+                class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
               >
                 <label
                   class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
@@ -1428,10 +1428,10 @@ exports[`<Form /> should check Form functionality 6`] = `
                   />
                   <fieldset
                     aria-hidden="true"
-                    class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                    class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                   >
                     <legend
-                      class="PrivateNotchedOutline-legendLabelled-16 PrivateNotchedOutline-legendNotched-17"
+                      class="PrivateNotchedOutline-legendLabelled-18 PrivateNotchedOutline-legendNotched-19"
                     >
                       <span>
                         MM
@@ -1445,10 +1445,10 @@ exports[`<Form /> should check Form functionality 6`] = `
               />
             </label>
             <label
-              class="MuiFormControlLabel-root makeStyles-control-13"
+              class="MuiFormControlLabel-root makeStyles-control-15"
             >
               <div
-                class="MuiFormControl-root MuiTextField-root makeStyles-input-12 MuiFormControl-fullWidth"
+                class="MuiFormControl-root MuiTextField-root makeStyles-input-14 MuiFormControl-fullWidth"
               >
                 <label
                   class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
@@ -1471,10 +1471,10 @@ exports[`<Form /> should check Form functionality 6`] = `
                   />
                   <fieldset
                     aria-hidden="true"
-                    class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                    class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                   >
                     <legend
-                      class="PrivateNotchedOutline-legendLabelled-16 PrivateNotchedOutline-legendNotched-17"
+                      class="PrivateNotchedOutline-legendLabelled-18 PrivateNotchedOutline-legendNotched-19"
                     >
                       <span>
                         YYYY
@@ -1494,14 +1494,14 @@ exports[`<Form /> should check Form functionality 6`] = `
             gender
           </label>
           <div
-            class="makeStyles-group-18"
+            class="makeStyles-group-20"
           >
             <label
-              class="makeStyles-label-19"
+              class="makeStyles-label-21"
               for="male"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-21 MuiButton-containedPrimary"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-23 MuiButton-containedPrimary"
                 tabindex="0"
                 type="button"
               >
@@ -1510,7 +1510,7 @@ exports[`<Form /> should check Form functionality 6`] = `
                 >
                   <input
                     checked=""
-                    class="makeStyles-field-20"
+                    class="makeStyles-field-22"
                     id="male"
                     name="gender"
                     type="radio"
@@ -1524,11 +1524,11 @@ exports[`<Form /> should check Form functionality 6`] = `
               </button>
             </label>
             <label
-              class="makeStyles-label-19"
+              class="makeStyles-label-21"
               for="female"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-21"
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-23"
                 tabindex="0"
                 type="button"
               >
@@ -1536,7 +1536,7 @@ exports[`<Form /> should check Form functionality 6`] = `
                   class="MuiButton-label"
                 >
                   <input
-                    class="makeStyles-field-20"
+                    class="makeStyles-field-22"
                     id="female"
                     name="gender"
                     type="radio"
@@ -1550,11 +1550,11 @@ exports[`<Form /> should check Form functionality 6`] = `
               </button>
             </label>
             <label
-              class="makeStyles-label-19"
+              class="makeStyles-label-21"
               for="unspecified"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-21"
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-23"
                 tabindex="0"
                 type="button"
               >
@@ -1562,7 +1562,7 @@ exports[`<Form /> should check Form functionality 6`] = `
                   class="MuiButton-label"
                 >
                   <input
-                    class="makeStyles-field-20"
+                    class="makeStyles-field-22"
                     id="unspecified"
                     name="gender"
                     type="radio"
@@ -1616,11 +1616,11 @@ exports[`<Form /> should check Form functionality 6`] = `
               </svg>
               <fieldset
                 aria-hidden="true"
-                class="PrivateNotchedOutline-root-14 MuiOutlinedInput-notchedOutline"
+                class="PrivateNotchedOutline-root-16 MuiOutlinedInput-notchedOutline"
                 style="padding-left: 8px;"
               >
                 <legend
-                  class="PrivateNotchedOutline-legend-15"
+                  class="PrivateNotchedOutline-legend-17"
                   style="width: 0.01px;"
                 >
                   <span>
@@ -1632,7 +1632,7 @@ exports[`<Form /> should check Form functionality 6`] = `
           </div>
         </div>
         <div
-          class="MuiFormGroup-root makeStyles-group-2"
+          class="MuiFormGroup-root makeStyles-group-2 makeStyles-hideGroup-12"
           style="justify-content: center; align-items: center;"
         >
           <svg
